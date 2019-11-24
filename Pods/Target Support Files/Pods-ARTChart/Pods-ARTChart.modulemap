@@ -1,0 +1,6 @@
+framework module Pods_ARTChart {
+  umbrella header "Pods-ARTChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
